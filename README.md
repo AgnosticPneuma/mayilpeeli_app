@@ -1,6 +1,6 @@
 # mayilpeeli_app
 
-E commerce app
+E commerce application done in  Flutter framework using DART. 
 
 ## Getting Started
 
