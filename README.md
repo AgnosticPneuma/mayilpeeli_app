@@ -1,6 +1,7 @@
 # mayilpeeli_app
 
-E commerce application done in  Flutter framework using DART. 
+Helping out Local Bussiness. 
+A Boutique, whose bussiness is made online using an android application.
 
 ## Getting Started
 
