@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791151785265",
+    "firebase_url": "https://mayilpeeli-3637.firebaseio.com",
+    "project_id": "mayilpeeli-3637",
+    "storage_bucket": "mayilpeeli-3637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791151785265:android:067e6e833446420b9dec10",
+        "android_client_info": {
+          "package_name": "com.agnostic.mayilpeeli_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791151785265-46mjji1jdf51prnelr668qfotoumtqql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41clkNeRw8hF4Ft2cYS5daE2Ts79jk4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791151785265-46mjji1jdf51prnelr668qfotoumtqql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
